@@ -13,8 +13,8 @@ Our team interprets the composite indicators (pollution burden, population chara
 
 ## Team Member Contributions
 
-### Pablo Jose
-- Summarized **Pollution Burden** indicators (ozone, PM 2.5, traffic, drinking-water contaminants, toxic releases, etc.).
+### Pablo Josey
+- Summarized Pollution Burden indicators (ozone, PM 2.5, traffic, drinking-water contaminants, toxic releases, etc.).
 - Explained how exposure metrics vary geographically.
 - Discussed implications for public health.
 
