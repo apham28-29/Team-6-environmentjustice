@@ -13,22 +13,22 @@ Our team interprets the composite indicators (pollution burden, population chara
 
 ## Team Member Contributions
 
-### <Member 1 Name>
+### Pablo Jose
 - Summarized **Pollution Burden** indicators (ozone, PM 2.5, traffic, drinking-water contaminants, toxic releases, etc.).
 - Explained how exposure metrics vary geographically.
 - Discussed implications for public health.
 
-### <Member 2 Name>
+### Reza Rizvi
 - Analyzed **Population Characteristics** metrics (socioeconomic, age, pre-existing health conditions).
 - Compared disadvantaged versus affluent regions.
 - Connected these indicators to vulnerability indexes.
 
-### <Member 3 Name>
+### Mohammed Almutairi
 - Interpreted the **Cumulative Score Ranking** methodology used by OEHHA.
 - Highlighted top-ranked census tracts and recurring geographic patterns.
 - Related results to state policy decisions and equity planning.
 
-### <Member 4 Name>
+### Dinh Nguyen
 - Compiled visual summaries, charts, or maps that represent pollution and vulnerability correlations.
 - Contributed insight into how CalEnviroScreen 4.0 informs California’s climate-equity programs.
 
