@@ -24,9 +24,15 @@ Our team interprets the composite indicators (pollution burden, population chara
 - Connected these indicators to vulnerability indexes.
 
 ### Mohammed Almutairi
-- Interpreted the **Cumulative Score Ranking** methodology used by OEHHA.
-- Highlighted top-ranked census tracts and recurring geographic patterns.
-- Related results to state policy decisions and equity planning.
+- Conducted an in-depth analysis of the Cumulative Impact Score and Ranking Methodology outlined in the CalEnviroScreen 4.0 framework.
+
+- Evaluated how OEHHA integrates pollution burden and population vulnerability metrics to produce the overall cumulative score.
+
+- Identified and interpreted the top-ranked census tracts with the highest environmental risk, emphasizing recurring patterns in regions most affected by pollution.
+
+- Linked the data findings to California’s environmental justice and equity policies, explaining how cumulative rankings inform state-level decision-making and resource prioritization.
+
+- Suggested ways to enhance equity analysis by incorporating temporal trends and cross-sectoral policy data for a more comprehensive assessment in future versions.
 
 ### Dinh Nguyen
 - Compiled visual summaries, charts, or maps that represent pollution and vulnerability correlations.
